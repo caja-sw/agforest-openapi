@@ -57,7 +57,7 @@ paths:
           example: 20
       responses:
         "200":
-          description: 카테고리 정보
+          description: 카테고리 게시글 목록
           content:
             application/json:
               schema:
