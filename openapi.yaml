@@ -120,7 +120,7 @@ paths:
                           format: date-time
                           description: 게시글 작성 시간
               example:
-                totalPostCount: 3
+                totalPostCount: 100
                 posts:
                   - id: 1
                     author:
@@ -148,6 +148,159 @@ paths:
                       id: 1
                       name: 자유 게시판
                     title: 게시물 3
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 4
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 4
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 5
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 5
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 6
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 6
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 7
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 7
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 8
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 8
+                      name: 자유 게시판
+                    title: 게시물 3
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 9
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 9
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 10
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 10
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 11
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 11
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 12
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 12
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 13
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 13
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 14
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 14
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 15
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 15
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 16
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 16
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 17
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 17
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 18
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 18
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 19
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 19
+                    createdAt: 2025-08-13T14:23:40.926Z
+                  - id: 20
+                    author:
+                      name: 익명
+                      hash: f91c5c2dd839cd5e
+                    category:
+                      id: 1
+                      name: 자유 게시판
+                    title: 게시물 20
                     createdAt: 2025-08-13T14:23:40.926Z
         "404":
           description: 카테고리를 찾을 수 없음
